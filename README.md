@@ -9,7 +9,7 @@
 
 - [Description](#Description)
 - [Installation](#installation)
-
+- [Screen shots](#screenshot)
 ## Description
 nmpcht is a nmap cheat sheet which can be easily operated and stores the output in the scanning directory according the host ip address provided for scanning 
 
@@ -22,3 +22,6 @@ nmpcht is a nmap cheat sheet which can be easily operated and stores the output 
  	./install.sh
  
  ```
+
+## screenshot
+   ![Test Image 1](screen-shot.png)
